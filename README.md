@@ -1,3 +1,5 @@
+This extension is unofficial and not affiliated with AWS.
+
 # aws_url_copier
 This extension removes the session part from AWS Management Console multi-session URLs before copying them.
 
