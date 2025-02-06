@@ -8,3 +8,6 @@ The URL `https://000000000000-aaaaaaaa.us-east-1.console.aws.amazon.com/console/
 
 ## Ref
 https://docs.aws.amazon.com/ja_jp/awsconsolehelpdocs/latest/gsg/multisession.html
+
+## My Article
+https://zenn.dev/kuredev/articles/432f1441b90466
